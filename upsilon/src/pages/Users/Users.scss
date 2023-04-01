@@ -1,0 +1,12 @@
+.mon-notification {
+  width: 100%;
+  height: calc(100vh - 54px);
+  display: flex;
+  flex-direction: column;
+  background-color: #F5F5F9;
+  padding: 24px;
+}
+
+.mon-users-item {
+  padding: 8px 0;
+}
